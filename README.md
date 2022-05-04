@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DS-BEE-PT. I am part of Bee Engineeirng in Portugal. Bee Engineering it´s an IT consultacy company working in Portugal since 2013.   
+- 👀 I'm interested in engaging with the community and share IT job opportunities available in Bee Engineering Portugal
+- 🌱 I’m currently looking for IT professionals who want to join us in several software development projects. Here's a summary of current tech stack used in our projects: .Net; Java; Python; Node.js; GO | Javacript; React; Angular; Vue | React Native; iOS; Flutter; Android; Kolin; Xamrim|
+- 💞️ I’m looking forward to BE(E) part of this community and to able to to know more about you. 
+- 📫 Let's stay in touch dinis.santana@bee-eng.pt.
+- 
+--->
